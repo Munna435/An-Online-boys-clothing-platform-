@@ -1,0 +1,13 @@
+.card {
+  text-align: center;
+  border: none;
+  padding: 12px 0;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 0px 6px #ccc;
+  -moz-box-shadow: 0px 0px 6px #ccc;
+  box-shadow: 0px 0px 6px #ccc;
+  margin-bottom: 100px;
+}
+.card:hover{
+    box-shadow: 0 0 10px #ccc;
+}
